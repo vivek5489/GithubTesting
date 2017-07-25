@@ -46,3 +46,4 @@ lint.xml
 project.properties
 
 app/manifest-merger-release-report.txt
+.idea/workspace.xml
