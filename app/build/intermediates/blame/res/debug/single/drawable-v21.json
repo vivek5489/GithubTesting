@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

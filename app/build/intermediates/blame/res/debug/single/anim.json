@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/anim/abc_popup_exit.xml"
+    }
+]

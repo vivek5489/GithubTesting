@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

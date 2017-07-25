@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/viveksrivastava/Development/GitHubTesting/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/viveksrivastava/.android/build-cache/16a3885f5e8279cbbcdee185457fe5d68efb45a4/output/res/layout-v21/notification_action.xml"
+    }
+]
